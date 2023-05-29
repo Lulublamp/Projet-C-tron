@@ -1,0 +1,10 @@
+.vscode
+.idea
+valgrind-out.txt
+build
+*.exe
+*.out
+*.o
+client
+server
+saday-arhun-blampied-lucas
